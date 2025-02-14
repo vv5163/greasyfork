@@ -79,3 +79,6 @@ Cloudflare: 1.1.1.1
 长期自动跳转地址  https://nextgo.us.kg/api/zh-CN/scripts/by-site/bilibili.com
 
 使用这个可以长期自动跳转到最新域名
+
+# 赞助
+https://z.mengmengmao.cn

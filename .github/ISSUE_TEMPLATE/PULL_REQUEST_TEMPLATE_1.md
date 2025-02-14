@@ -3,20 +3,12 @@ name: 域名不可用，请求更换域名
 about: 中国大陆地区域名被封禁，无法正常访问
 ---
 
-- [ ]  The existence of this issue has been confirmed
-- [ ]  The importance and urgency of this issue have been confirmed
+# Choose your language and check the box with an X.
+# 选择您的语言,用X打勾
 
-**Description:** [Please describe the background, possible causes, how to reproduce the issue, and any necessary solutions]
+- [ ]  中文
+- [ ]  English
 
-**Related Issues:** [List the issue numbers related to this issue]
-
-**Checklist:**
-
-- [ ]  The existence of this issue has been confirmed
-- [ ]  The importance and urgency of this issue have been confirmed
-
-**Labels:** [Add appropriate labels]
-
-**Assignees:** [Assign the responsible person for this issue]
-
-**Priority:** [Set the priority for this issue]
+**受影响的域名** [请在这里填写域名，可以包含http(s)]
+--------------------------------------------------------
+**affected domains** [please fill in the domain name here, it can contain http(s)]

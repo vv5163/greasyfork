@@ -2,10 +2,10 @@
 name: 举报违法内容
 about: 举报违法内容
 ---
-# select your language
-# 选择您的语言
+# Choose your language and check the box with an X.
+# 选择您的语言,用X打勾
 
-- [X]  中文
+- [ ]  中文
 - [ ]  English
 
 **名称** [请在此处填写问题标题]

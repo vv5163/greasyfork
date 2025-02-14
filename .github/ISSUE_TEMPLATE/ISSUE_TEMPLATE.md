@@ -5,7 +5,7 @@ about: 举报违法内容
 # select your language
 # 选择您的语言
 
-- [ ]  中文
+- [X]  中文
 - [ ]  English
 
 **名称** [请在此处填写问题标题]

@@ -1,24 +1,17 @@
 ---
-name: 模板名称，在新建issue时候能看到
-about: 模板描述，对应的issue模板卡片展示时候能看到，介绍模板
+name: 举报违法内容
+about: 举报违法内容
 ---
 
-**Title:** [Please fill in the issue title here]
+- [ ]  中文
+- [ ]  English
 
-**Description:** [Please describe the background, possible causes, how to reproduce the issue, and any necessary solutions]
+**名称** [请在此处填写问题标题]
 
-**Related Issues:** [List the issue numbers related to this issue]
+**链接** [请在此处填写举报的链接]
 
-**Checklist:**
+------------------------------
 
-- [ ]  The existence of this issue has been confirmed
-- [ ]  The importance and urgency of this issue have been confirmed
-- [ ]  The responsible person for this issue has been confirmed
-- [ ]  The solution for this issue has been confirmed
-- [ ]  The testing method for this issue has been confirmed
+**Name** [Please fill in the question title here]
 
-**Labels:** [Add appropriate labels]
-
-**Assignees:** [Assign the responsible person for this issue]
-
-**Priority:** [Set the priority for this issue]
+**Link** [Please fill in the reporting link here]

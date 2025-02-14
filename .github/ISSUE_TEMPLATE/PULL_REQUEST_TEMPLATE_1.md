@@ -12,7 +12,7 @@ about: 中国大陆地区域名被封禁，无法正常访问
 
 **Checklist:**
 
-- [*]  The existence of this issue has been confirmed
+- [ ]  The existence of this issue has been confirmed
 - [ ]  The importance and urgency of this issue have been confirmed
 
 **Labels:** [Add appropriate labels]

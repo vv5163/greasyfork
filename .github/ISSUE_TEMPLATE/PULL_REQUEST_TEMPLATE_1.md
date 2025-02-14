@@ -9,6 +9,6 @@ about: 中国大陆地区域名被封禁，无法正常访问
 - [ ]  中文
 - [ ]  English
 
-**受影响的域名** [请在这里填写域名，可以包含http(s)]
+**受影响的域名:** [请在这里填写域名，可以包含http(s)]
 --------------------------------------------------------
-**affected domains** [please fill in the domain name here, it can contain http(s)]
+**affected domains:** [please fill in the domain name here, it can contain http(s)]

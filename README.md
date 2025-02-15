@@ -82,3 +82,7 @@ Cloudflare: 1.1.1.1
 
 # 赞助
 https://z.mengmengmao.cn
+
+# 讨论
+
+QQ群：1031348184

@@ -1,5 +1,7 @@
 # 中文 [English](/README_English.md)
 
+### 监控：https://status.nextgo.us.kg/status/greasyfork
+
 新域名 https://nextgo.us.kg/ (此域名为中转,确保以后更换域名不用费劲心思再找)
 
 它将有以下限制：

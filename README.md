@@ -62,7 +62,7 @@ QQ群：1031348184
 
 2.@chatgpt        写出nextgo.us.kg部分代码
 
-3.deepseek        参考开往写出go.html
+3.@deepseek        参考开往的go.html写出go.html
 
 4.@dahi           搭建yx.dahi.edu.eu.org镜像站
 

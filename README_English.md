@@ -1,4 +1,4 @@
-# Chinese.
+# English.
 
 New domain name https://nextgo.us.kg/ (This domain name is a transit to ensure that you don't have to look hard to change your domain name in the future)
 

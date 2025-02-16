@@ -1,4 +1,4 @@
-# 中文:
+# 中文 [English](/README_English.md)
 
 新域名 https://nextgo.us.kg/ (此域名为中转,确保以后更换域名不用费劲心思再找)
 

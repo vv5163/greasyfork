@@ -1,6 +1,6 @@
 ---
-name: 提交镜像站
-about: 提交镜像站
+name: 提交新镜像站域名
+about: 提交新镜像站域名
 ---
 
 # Choose your language and check the box with an X.

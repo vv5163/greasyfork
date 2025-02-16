@@ -8,11 +8,11 @@
 
 2.繁体中文将会重定向到 https://greasyfork.org/zh-TW
 
-3.由于服务器带宽不高，将会进行人机验证
+~~3.由于服务器带宽不高，将会进行人机验证~~
 
 4.可能无法登录，ps：没试过
 
-此域名为镜像 cn-greasyfork.org
+~~此域名为镜像 cn-greasyfork.org~~  此域名为镜像 greasyfork.org
 
 下载地址为 update.greasyfork.us.kg
 
@@ -42,11 +42,11 @@ It will have the following restrictions:
 
 2.Traditional Chinese will be redirected to https://greasyfork.org/zh-TW.
 
-3.Due to low server bandwidth, human verification will be implemented.
+~~3.Due to low server bandwidth, human verification will be implemented.~~
 
 4.Login may not be possible; PS: not tested.
 
-This domain is a mirror of cn-greasyfork.org.
+~~This domain is a mirror of cn-greasyfork.org.~~  This domain is a mirror of greasyfork.org.
 
 The download address is update.greasyfork.us.kg.
 

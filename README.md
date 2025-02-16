@@ -90,12 +90,12 @@ QQ群：1031348184
 
 # 感谢
 
-1.@mc-yzy15  提出issues
+1.@mc-yzy15       提出issues
 
-2.@chatgpt 写出nextgo.us.kg部分代码
+2.@chatgpt        写出nextgo.us.kg部分代码
 
-3.deepseek 参考开往写出go.html
+3.deepseek        参考开往写出go.html
 
-4.@dahi 搭建yx.dahi.edu.eu.org镜像站
+4.@dahi           搭建yx.dahi.edu.eu.org镜像站
 
-5.@fishcpy 搭建www.greasyfork.us.kg镜像站
+5.@fishcpy        搭建www.greasyfork.us.kg镜像站

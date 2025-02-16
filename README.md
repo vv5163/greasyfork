@@ -86,3 +86,7 @@ https://z.mengmengmao.cn
 # 讨论
 
 QQ群：1031348184
+
+
+# 感谢
+1.@mc-yzy15  提出issues

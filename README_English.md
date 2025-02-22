@@ -46,9 +46,6 @@ Long term autobounce address https://nextgo.us.kg/api/zh-CN/scripts/by-site/bili
 
 Use this for long term auto redirection to the latest domain name
 
-# Sponsored
-https://z.mengmengmao.cn
-
 # Discuss
 
 QQ Group: 1031348184

@@ -1,3 +1,5 @@
+# 目前暂不可用，正在等待dpdns.org调试完成
+
 # 中文 [English](/README_English.md)
 
 ### 监控：https://status.nextgo.us.kg/status/greasyfork

@@ -1,10 +1,10 @@
-# 目前暂不可用，正在等待dpdns.org支持cloudflare
+# 目前暂不可用，正在等待cloudflare支持dpdns.org
 
 # 中文 [English](/README_English.md)
 
-### 监控：https://status.nextgo.us.kg/status/greasyfork
+### 监控：https://status.nextgo.dpdns.org/status/greasyfork
 
-新域名 https://nextgo.us.kg/ (此域名为中转,确保以后更换域名不用费劲心思再找)
+新域名 https://nextgo.dpdns.org/ (此域名为中转,确保以后更换域名不用费劲心思再找)
 
 它将有以下限制：
 
@@ -18,7 +18,7 @@
 
 ~~此域名为镜像 cn-greasyfork.org~~  此域名为镜像 greasyfork.org
 
-下载地址为 update.greasyfork.us.kg
+下载地址为 update.greasyfork.dpdns.org
 
 ⚠️注意事项：
 
@@ -40,13 +40,13 @@ cloudflare：1.1.1.1
 
 # 长期地址自动跳转
 
-请求地址 https://nextgo.us.kg/api
+请求地址 https://nextgo.dpdns.org/api
 
 例；
 
-原先地址   https://www.greasyfork.us.kg/zh-CN/scripts/by-site/bilibili.com
+原先地址   https://www.greasyfork.dpdns.org/zh-CN/scripts/by-site/bilibili.com
 
-长期自动跳转地址  https://nextgo.us.kg/api/zh-CN/scripts/by-site/bilibili.com
+长期自动跳转地址  https://nextgo.dpdns.org/api/zh-CN/scripts/by-site/bilibili.com
 
 使用这个可以长期自动跳转到最新域名
 

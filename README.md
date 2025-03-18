@@ -1,4 +1,4 @@
-# 目前暂不可用，正在等待dpdns.org调试完成
+# 目前暂不可用，正在等待dpdns.org支持cloudflare
 
 # 中文 [English](/README_English.md)
 

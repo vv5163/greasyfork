@@ -1,4 +1,6 @@
-# 目前暂不可用，正在等待cloudflare支持dpdns.org
+# 新域名：https://greasyfork.dpdns.org/
+
+### 临时使用cn2服务器
 
 # 中文 [English](/README_English.md)
 

@@ -46,7 +46,7 @@ cloudflare：1.1.1.1
 
 例；
 
-原先地址   https://www.greasyfork.dpdns.org/zh-CN/scripts/by-site/bilibili.com
+原先地址   https://greasyfork.dpdns.org/zh-CN/scripts/by-site/bilibili.com
 
 长期自动跳转地址  https://nextgo.dpdns.org/api/zh-CN/scripts/by-site/bilibili.com
 

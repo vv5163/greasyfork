@@ -80,25 +80,3 @@ Use this for long term auto jump to the latest domain name
 
 
 QQ Group: 1031348184
-
-
-
-
-# Thanks
-
-
-1.@mc-yzy15 for proposing theissues
-
-
-2.@chatgpt wrote the nextgo.us.kg part of the code.
-
-
-3.@deepseek wrote go.html with reference to go.html in the past.
-
-
-4.@dahi build yx.dahi.edu.eu.org mirror site
-
-
-5. @fishcpy built the mirror site www.greasyfork.us.kg 
-
-Translated with DeepL.com (free version)

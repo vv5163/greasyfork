@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://imgse.fishcpy.top/upload/thumbnails/2025/w800/logofishcompressed.png" width="128" height="128" alt="PCL2-CE-web Logo">
-
 # greasyfork镜像<br>
 
 </div>

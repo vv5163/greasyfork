@@ -8,23 +8,20 @@
 
 # 新域名：https://greasyfork.dpdns.org/
 
-### 临时使用cn2服务器
-
 # 中文 [English](/README_English.md)
 
-### 监控：https://status.nextgo.dpdns.org/status/greasyfork
 
 新域名 https://nextgo.dpdns.org/ (此域名为中转,确保以后更换域名不用费劲心思再找)
 
 它将有以下限制：
 
-1.日本地区ip将会被阻止
+~~1.日本地区ip将会被阻止~~
 
-2.繁体中文将会重定向到 https://greasyfork.org/zh-TW
+~~2.繁体中文将会重定向到 https://greasyfork.org/zh-TW~~
 
 ~~3.由于服务器带宽不高，将会进行人机验证~~
 
-4.可能无法登录，ps：没试过
+4.无法登录
 
 ~~此域名为镜像 cn-greasyfork.org~~  此域名为镜像 greasyfork.org
 
@@ -32,7 +29,7 @@
 
 ⚠️注意事项：
 
-由于.us.kg域名的特殊性，如果跳反诈基本是由于使用了运营商dns，可以更改dns为其他的，我在这里列几个
+由于dpdns.org域名的特殊性，如果跳反诈基本是由于使用了运营商dns，可以更改dns为其他的，我在这里列几个
 
 阿里云：223.5.5.5
 

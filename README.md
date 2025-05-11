@@ -11,7 +11,7 @@
 # 中文 [English](/README_English.md)
 
 
-新域名 https://nextgo.dpdns.org/ (此域名为中转,确保以后更换域名不用费劲心思再找)
+新域名 https://nextgo.dpdns.org/ (此域名为中转)
 
 它将有以下限制：
 
